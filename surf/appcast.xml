@@ -4,6 +4,14 @@
         <title>Surf</title>
         <item>
             <title>0.1.0.103</title>
+            <description>
+            <![CDATA[
+            <h3 id="-others">Changes</h3>
+            <ul>
+                <li>Updater test</li>
+            </ul>
+            ]]>
+            </description>
             <pubDate>Mon, 06 May 2024 02:03:32 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1.0.103</sparkle:shortVersionString>
@@ -12,6 +20,14 @@
         </item>
         <item>
             <title>0.1.0.102</title>
+            <description>
+            <![CDATA[
+            <h3 id="-others">Initial Testable Release</h3>
+            <ul>
+                <li>Initial release. (Testable distribution)</li>
+            </ul>
+            ]]>
+            </description>
             <pubDate>Mon, 06 May 2024 01:57:49 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0.102</sparkle:shortVersionString>
